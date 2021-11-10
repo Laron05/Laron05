@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Laron05
+- 👋 Hi, I’m @WorldGiant
 - 👀 I’m interested in Data Science, Python, M&E
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python projects
